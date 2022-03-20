@@ -13,7 +13,7 @@
   <img align="center" alt="Dante-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dante-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dante-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dante-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/kimetsu-no-yaiba-demon-slayer-zankyosanka-muzan-gif-24033290">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694891339380424705/955143703876472853/Muzanforma_femea-3.jpg">
 </div>
 
   ##
