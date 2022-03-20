@@ -11,10 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dante3147 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dante3147)](https://github.com/Dante3147/github-readme-stats)
-
-![Dante3147 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dante3147&count_private=true)
-
-![Dante3147 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dante3147&show_icons=true)
-
 ![Dante3147 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dante3147&show_icons=true&theme=radical)
