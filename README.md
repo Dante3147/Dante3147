@@ -13,7 +13,7 @@
   <img align="center" alt="Dante-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dante-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dante-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dante-pic" height="180" style="border-radius:50px;" src="https://tenor.com/view/demons-slayer-kimetsu-kimetsu-no-yaiba-muzan-muzan-kibutsuji-gif-23489725">
+  <img align="right" alt="Dante-pic" height="180" style="border-radius:100px;" src="https://tenor.com/view/demons-slayer-kimetsu-kimetsu-no-yaiba-muzan-muzan-kibutsuji-gif-23489725">
 </div>
 
   ##
