@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694891339380424705/955143703876472853/Muzanforma_femea-3.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/demons-slayer-kimetsu-kimetsu-no-yaiba-muzan-muzan-kibutsuji-gif-23489725">
 </div>
 
   ##
